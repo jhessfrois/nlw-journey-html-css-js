@@ -1,6 +1,6 @@
 <p align="center">
   <img alt="Logo NLW Journey - Rocketseat" src="https://i.imgur.com/pneBjyQ.png" width="200px" />
-</p>
+</p> 
 
 <p align="center">
 Aplicação desenvolvida no NLW Journey da Rocketseat na trilha HTML+CSS+JS.
